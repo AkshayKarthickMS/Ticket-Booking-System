@@ -1,0 +1,7 @@
+6 6
+Row 1: X X X O X X
+Row 2: O X X X O O
+Row 3: O X X X O X
+Row 4: O X O O O O
+Row 5: O O O O O O
+Row 6: X O X O O X
